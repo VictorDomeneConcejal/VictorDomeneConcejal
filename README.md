@@ -1,13 +1,13 @@
 # 👋 ¡Hola! Soy Víctor Domene Concejal
 ### 📡 Ingeniero de Telecomunicaciones | Especialista en Telemática
 
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=VictorDomeneConcejal&show_icons=true&theme=tokyonight&count_private=true" alt="Stats" />
-</p>
+Soy estudiante de último año de **Ingeniería de Telecomunicaciones** en la URJC. Me considero una persona curiosa, proactiva y analítica, con un perfil versátil que me permite trabajar tanto en el desarrollo de software como en la gestión de infraestructuras de red.
+
+Mi enfoque se centra en la resolución de problemas complejos, aportando valor a través del dominio de herramientas de análisis de red y el desarrollo de sistemas robustos, siempre con la eficiencia y la seguridad como pilares fundamentales.
 
 ---
 
-## 🛠️ Mi Stack Tecnológico
+## 🛠️ Stack Tecnológico
 
 ### 💻 Programación y Sistemas
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
@@ -31,14 +31,14 @@
 ---
 
 ## 🏛️ Organización Académica (URJC)
-> **[Visita mi Organización de Ingeniería](https://github.com/Victor-Domene-Ingenieria-Telematica)** > Aquí gestiono mis repositorios de la carrera de forma estructurada y profesional.
+> **[Visita mi Organización de Ingeniería](https://github.com/Victor-Domene-Ingenieria-Telematica)** > Aquí gestiono mis repositorios de la carrera de forma estructurada, profesional y organizada por asignaturas.
 
 ---
 
 ## 🌟 Sobre mí
-* 🧠 **Perfil Analítico:** Me motiva la resolución de problemas complejos y la arquitectura de redes.
-* ⌨️ **Linux Power User:** Fluidez total en entorno de terminal GNOME.
-* 🎹 **Hobby:** Disfruto tocando el piano y practicando deporte para mantener el equilibrio.
+* 🧠 **Perfil Analítico:** Gran capacidad para enfrentar desafíos lógicos y de arquitectura de sistemas.
+* ⌨️ **Linux Power User:** Fluidez total en entorno de terminal y administración de sistemas.
+* 🎹 **Hobby:** Fuera del entorno digital, me apasiona el deporte y tocar el piano.
 
 ---
 
