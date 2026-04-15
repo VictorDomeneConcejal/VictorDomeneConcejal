@@ -1,50 +1,45 @@
-# 👋 ¡Hola! Soy Víctor Domene Concejal
-### 📡 Ingeniero de Telecomunicaciones | Especialista en Telemática
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Victor%20Domene&fontSize=70&animation=fadeIn&fontAlignY=35" alt="Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Ingeniero%20Telemático&fontSize=50&animation=fadeIn&fontAlignY=35" alt="Banner Animado" />
 </p>
 
-Soy estudiante de último año de **Ingeniería de Telecomunicaciones** en la URJC. Me considero una persona curiosa, proactiva y analítica, con un perfil versátil que me permite trabajar tanto en el desarrollo de software como en la gestión de infraestructuras de red.
+## 🚀 Sobre mí
+Soy Víctor, estudiante de último año de **Ingeniería de Telecomunicaciones** especializado en **Telemática** en la Universidad Rey Juan Carlos (URJC). Cuento con un perfil técnico versátil que combina la programación en lenguajes como C, C++, Python y ensamblador RISC-V con el desarrollo web y el análisis de redes.
 
-Mi enfoque se centra en la resolución de problemas complejos, aportando valor a través del dominio de herramientas de análisis de red y el desarrollo de sistemas robustos, siempre con la eficiencia y la seguridad como pilares fundamentales.
+Me considero una persona curiosa, trabajadora, proactiva y analítica, con muchas ganas de aprender y mejorar continuamente para aportar valor al equipo desde el primer día.
 
 ---
 
 ## 🛠️ Stack Tecnológico
 
-### 💻 Programación y Sistemas
-<img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /> <img src="https://img.shields.io/badge/RISC--V-602c2c?style=for-the-badge&logo=riscv&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-
-### 🌐 Web & Backend
-<img src="https://img.shields.io/badge/django-%23092e20.svg?style=for-the-badge&logo=django&logoColor=white" /> <img src="https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-
-### 📡 Redes y Herramientas
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" /> <img src="https://img.shields.io/badge/TCP--IP-blue?style=for-the-badge" /> <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/MATLAB-%23ED1C24.svg?style=for-the-badge&logo=mathworks&logoColor=white" />
+| 💻 Programación | 🌐 Web & Backend | 📡 Redes & Sistemas |
+| :--- | :--- | :--- |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) | ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white) |
+| ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) | ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
+| ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white) | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![TCP/IP](https://img.shields.io/badge/TCP/IP-00599C?style=for-the-badge) |
+| ![RISC-V](https://img.shields.io/badge/RISC--V-602C2C?style=for-the-badge) | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white) |
 
 ---
 
-## 🏛️ Organización Académica (URJC)
-> [!IMPORTANT]
-> **[Visita mi Carrera como Ingeniero de Telecomunicaciones](https://github.com/Victor-Domene-Ingenieria-Telematica)** > Aquí gestiono mis repositorios de la carrera de forma estructurada, profesional y organizada por asignaturas
+## 🏛️ Organización Académica
+> [!TIP]
+> **[Explora mis proyectos en la URJC](https://github.com/Victor-Domene-Ingenieria-Telematica)** > Repositorios estructurados por asignaturas para demostrar mi progresión académica.
 
 ---
 
-## 🌟 Sobre mí
-* 🧠 **Perfil Analítico:** Gran capacidad para enfrentar desafíos lógicos y de arquitectura de sistemas.
-* ⌨️ **Linux Power User:** Fluidez total en entorno de terminal y administración de sistemas.
-* 🎹 **Hobby:** Fuera del entorno digital, me apasiona el deporte y tocar el piano.
+## ⚡ Detalles de Perfil
+* 🎹 **Música**: Toco el piano y me apasiona la música.
+* 🏃 **Deporte**: Lo practico como una forma de desconexión.
+* 🐧 **Sistemas**: Uso avanzado de la terminal de Linux (GNOME).
+* 🇬🇧 **Idiomas**: Nivel de inglés B2.
 
 ---
 
-## 📫 Contacto
-<a href="mailto:vdomeneconcejal@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/v%C3%ADctor-domene-concejal-241046399/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+## 📫 Conecta conmigo
+<p align="left">
+<a href="https://www.linkedin.com/in/v%C3%ADctor-domene-concejal-241046399/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Víctor Domene" height="30" width="40" /></a>
+<a href="mailto:vdomeneconcejal@gmail.com"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="vdomeneconcejal" height="30" width="40" /></a>
+</p>
 
-<p align="right">
-  <img src="https://raw.githubusercontent.com/Tristen/flying-toasters/master/flying-toasters.gif" width="80px" />
+<p align="right"> 
+  <img src="https://komarev.com/ghpvc/?username=VictorDomeneConcejal&label=Profile%20views&color=0e75b6&style=flat" alt="Views" />
 </p>
