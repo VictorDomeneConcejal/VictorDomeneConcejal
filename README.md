@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,2,21&height=200&section=header&text=Víctor%20Domene&fontSize=60&animation=twinkling&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=00599c&height=150&section=header&text=Víctor%20Domene%20|%20Ingeniero&fontSize=45&animation=fadeIn&fontAlignY=50" />
 </p>
 
 ## 🚀 Sobre mí
